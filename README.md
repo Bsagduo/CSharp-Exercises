@@ -1,18 +1,7 @@
-# Basic Math Operations
+# CSharp-Exercises
 
-Bu proje C# metod kullanımını öğrenmek amacıyla hazırlanmıştır.
+C# Backend öğrenme sürecimde yaptığım alıştırmalar ve mini projeler.
 
-## Özellikler
+## İçerik
 
-- Toplama işlemi
-- Çıkarma işlemi
-- Çarpma işlemi
-- Bölme işlemi
-- Sıfıra bölme kontrolü
-
-## Kullanılan Konular
-
-- Methodlar
-- Parametreler
-- Return ifadeleri
-- Temel matematik işlemleri
+- Exercise01-BasicMathOperations
